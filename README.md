@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Circe1111
-- 🌱 I’m currently learning statical structure and the fundmentality of computer.
+- 🌱 
 - 📫 How to reach me :circeone2@gamil.com
 
 <!---
