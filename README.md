@@ -32,9 +32,7 @@ Areas            │ AI Applications, Prompt Optimization, Agent Design
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Circe1111&style=for-the-badge&color=blueviolet)
 
-| Profile Stats | Language Stats |
-|---|---|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Circe1111&theme=nord) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Circe1111&theme=nord&layout=compact&langs_count=8)|
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Circe1111&theme=nord)](https://github.com/Circe1111)
 
 </div>
 
