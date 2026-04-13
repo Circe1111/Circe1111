@@ -34,7 +34,7 @@ Areas            │ AI Applications, Prompt Optimization, Agent Design
 
 | Profile Stats | Language Stats |
 |---|---|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Circe1111&theme=nord) | ![Top Langs](https://github-readme-stats-git-main-ryo5300.vercel.app/api/top-langs/?username=Circe1111&theme=nord&layout=compact)|
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Circe1111&theme=nord) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Circe1111&theme=nord&layout=compact&langs_count=8)|
 
 </div>
 
