@@ -13,15 +13,17 @@
 
 ## 🚀 About Me
 
-I'm a developer passionate about clean code, continuous learning, and building meaningful projects. I enjoy exploring new technologies and collaborating with communities to create innovative solutions.
+I'm a tech enthusiast and AI application developer on a continuous journey of growth. Passionate about exploring the frontiers of AI, prompt engineering, and modern development practices. I love experimenting with new technologies, building practical AI solutions, and sharing knowledge with the community. Always learning, always improving.
 
 ## 💻 Skills & Technologies
 
 ```
-Languages    │ Python, JavaScript, TypeScript, Java, C++
-Frameworks   │ React, Vue, Node.js, Django, Spring
-Tools        │ Git, Docker, VS Code, Linux
-Areas        │ Web Development, Full Stack, Open Source
+AI & LLMs        │ Prompt Engineering, LLM Fine-tuning, RAG
+Frameworks       │ LangChain, LanggraphFlow, LangGraph
+Tools & Platforms│ OpenAI API, Hugging Face, vector databases
+Dev Stack        │ Python, JavaScript, TypeScript, FastAPI
+Coding Style     │ VibeCoding - creative, expressive, mindful development
+Areas            │ AI Applications, Prompt Optimization, Agent Design
 ```
 
 ## 📊 GitHub Statistics
@@ -36,10 +38,12 @@ Areas        │ Web Development, Full Stack, Open Source
 
 ## 🌟 Highlights
 
-- 🎯 Focused on writing clean, efficient, and maintainable code
-- 📚 Continuous learner exploring emerging technologies
-- 🤝 Open to collaboration and community contributions
-- 💡 Problem-solving with creative solutions
+- 🤖 Specializing in AI application development and LLM prompt engineering
+- 🧠 Exploring cutting-edge frameworks like LangChain and LangGraph for intelligent agents
+- 🎵 Practicing VibeCoding - blending creativity and technical excellence with mindful development
+- 📚 Continuous learner diving deep into emerging AI technologies and best practices
+- 🚀 Building practical AI solutions that solve real-world problems
+- 🤝 Enthusiastic about collaborating and sharing knowledge with the tech community
 
 ## 📞 Connect With Me
 
